@@ -17,10 +17,10 @@ Compare current vs previous metrics and generate beautiful, motivating reports w
 ### 2. Visual Indicators
 
 Use these to make data scannable:
-- Growth >20%: [rocket emoji]
-- Positive growth: [chart up emoji]
-- Negative: [chart down emoji]
-- Flat (±2%): [arrow right emoji]
+- Growth >20%: 🚀
+- Positive growth: 📈
+- Negative: 📉
+- Flat (±2%): ➡️
 
 ### 3. Progress Tracking
 - ASCII progress bars for goals

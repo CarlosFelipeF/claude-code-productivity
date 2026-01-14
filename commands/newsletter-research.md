@@ -55,11 +55,11 @@ The newsletter writer should create:
 
 Create directories if needed:
 ```bash
-mkdir -p newsletter/research
+mkdir -p metrics
 mkdir -p newsletter/drafts
 ```
 
-Save research to `newsletter/research/research-YYYY-MM-DD.md`:
+Save research to `metrics/newsletter-research-YYYY-MM-DD.md`:
 ```markdown
 # Newsletter Research - [Date]
 
