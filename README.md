@@ -284,16 +284,16 @@ When you use these commands, they create organized folders in your project:
 ```
 your-project/
 ├── journal/
-│   └── daily/           # Daily check-in entries
+│   └── daily/              # Daily check-in entries
 ├── metrics/
-│   ├── metrics-history.md
-│   └── weekly-report-*.md
+│   ├── metrics-history.md  # Weekly metrics log
+│   ├── weekly-report-*.md  # Weekly analysis reports
+│   └── newsletter-research-*.md  # Newsletter research
 ├── braindumps/
-│   ├── *.md             # Your raw brain dumps
-│   └── analysis/        # Generated insights
+│   ├── *.md                # Your raw brain dumps
+│   └── analysis/           # Generated insights
 └── newsletter/
-    ├── research/        # Competitor analysis
-    └── drafts/          # Generated drafts
+    └── drafts/             # Generated newsletter drafts
 ```
 
 ---
